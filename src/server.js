@@ -1,7 +1,6 @@
 import dotenv from 'dotenv';
 import path from 'path';
-dotenv.config({ path: path.resolve('../.env') }); 
-
+dotenv.config()
 import express from 'express';
 import cors from 'cors';
 import bodyParser from 'body-parser';
