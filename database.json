@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nome": "Casaco de Moletom",
+    "local": "Pátio Central",
+    "descricao": "Casaco azul com capuz tamanho M",
+    "tipo": "achado"
+  },
+  {
+    "id": 2,
+    "nome": "Garrafa de água",
+    "local": "Quadra de Esportes",
+    "descricao": "Garrafa térmica vermelha de inox",
+    "tipo": "achado"
+  },
+  {
+    "nome": "penal",
+    "local": "cantina",
+    "descricao": ".",
+    "tipo": "achado",
+    "id": 1790952208993
+  }
+]
