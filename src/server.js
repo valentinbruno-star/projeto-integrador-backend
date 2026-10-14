@@ -10,7 +10,7 @@ import { rotasDeAutenticacao, exigirLogin } from './auth.js';
 import { rotasDeItens, salvarItem } from './itens.js';
 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 // Configuração correta de cabeçalhos e CORS para evitar qualquer bloqueio local
 app.use(cors({
